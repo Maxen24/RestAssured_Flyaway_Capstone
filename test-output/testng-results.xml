@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T10:18:39 IST" name="Suite" finished-at="2024-04-11T10:18:41 IST" duration-ms="1803">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T10:18:39 IST" name="Test" finished-at="2024-04-11T10:18:41 IST" duration-ms="1803">
+      <class name="com.Flyaway.Flyaway_Capstone_API">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:39 IST" name="setup" finished-at="2024-04-11T10:18:39 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginAction()[pri:0, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:39 IST" name="testLoginAction" finished-at="2024-04-11T10:18:40 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAction -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:40 IST" name="setup" finished-at="2024-04-11T10:18:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:40 IST" name="login" finished-at="2024-04-11T10:18:40 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:40 IST" name="setup" finished-at="2024-04-11T10:18:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homepage()[pri:2, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:40 IST" name="homepage" finished-at="2024-04-11T10:18:40 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method signature="BookFlight()[pri:3, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:40 IST" name="BookFlight" finished-at="2024-04-11T10:18:41 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:40 IST" name="setup" finished-at="2024-04-11T10:18:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:41 IST" name="setup" finished-at="2024-04-11T10:18:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="completepurchase()[pri:4, instance:com.Flyaway.Flyaway_Capstone_API@56620197]" started-at="2024-04-11T10:18:41 IST" name="completepurchase" finished-at="2024-04-11T10:18:41 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completepurchase -->
+      </class> <!-- com.Flyaway.Flyaway_Capstone_API -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
